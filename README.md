@@ -1,13 +1,31 @@
-## 🚀 Projects
+# Hi there 👋 I'm Ayham
 
-Here are a few highlights from my work:
-
-| Project | Description | Technologies |
-|--------|-------------|--------------|
-| [Weather App](https://github.com/yourusername/weather-app) | A responsive weather forecast app using OpenWeather API | HTML, CSS, JS |
-| [To-Do API](https://github.com/yourusername/todo-api) | A simple RESTful API for managing to-do items | Node.js, Express, MongoDB |
-| [Portfolio Website](https://github.com/yourusername/portfolio-site) | My personal site to showcase my projects and resume | React, TailwindCSS |
-
-🔗 **See all my work:** [github.com/Ayheni](https://github.com/Ayheni)
+I'm a **.NET developer** who loves building clean, fast, and scalable web applications using modern technologies.  
+I enjoy working with **C#**, **Blazor**, and **ASP.NET APIs**, along with **SQL Server**.
 
 ---
+
+## 🧰 Tech Stack
+- **Languages:** C#, SQL, HTML, CSS  
+- **Frameworks:** .NET, Blazor, ASP.NET API  
+- **Styling:** TailwindCSS  
+- **Database:** SQL Server  
+- **Tools:** Visual Studio, Git, Docker
+
+---
+
+## 🌱 What I'm Learning
+- Advanced Blazor patterns  
+- Clean Architecture in .NET  
+- Modern frontend integrations 
+
+---
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](#)
+- 🐙 [GitHub](https://github.com/Ayham-jdn)
+- 🌐 [Portfolio](#)
+
+---
+
+
